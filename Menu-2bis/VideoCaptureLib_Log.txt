@@ -1,0 +1,57 @@
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-32-56-S87NH.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-32-56-S87NH.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-32-56-AVXHG.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-32-56-AVXHG.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-34-08-N9GZH.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-34-08-N9GZH.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-34-08-WLTEH.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-34-08-WLTEH.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-39-37-ATKA9.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 732x302 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-39-37-ATKA9.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-39-37-36ZLG.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-39-37-36ZLG.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-40-17-SH2J4.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 732x302 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-40-17-SH2J4.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-40-17-5WJRK.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-40-17-5WJRK.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-43-35-7US94.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 732x302 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-43-35-7US94.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-43-35-077LB.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-43-35-077LB.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-46-09-69RTD.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 732x302 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-46-09-69RTD.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-47-14-HKCM0.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 732x302 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-47-14-HKCM0.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-55-34-O3A7O.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-55-34-O3A7O.mp4"
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-55-34-P7G1T.wav
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f f32le -ar 44100 -ac 2 -i - -y -preset ultrafast -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-55-34-P7G1T.wav"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-57-16-JSI3D.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-57-16-JSI3D.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-23-23-59-50-2SXZT.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-23-23-59-50-2SXZT.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-24-00-01-06-8JVG3.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-24-00-01-06-8JVG3.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-24-00-05-31-KC738.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-24-00-05-31-KC738.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
+[LOG]: [FFmpegLib]: DEST URL: /Users/florianezhang/RockVR/Video/2019-01-24-00-07-00-MCO2F.mp4
+[LOG]: [FFmpegLib]: Build command: "/Users/florianezhang/Documents/Unity projects/Menu-2bis/Assets/StreamingAssets/RockVR/FFmpeg/OSX/ffmpeg" -f rawvideo -pix_fmt rgb24 -r 30 -s 1280x720 -i - -y -preset ultrafast -pix_fmt yuv420p -vcodec libx264 -crf 18 -vf vflip -framerate 30 -tune zerolatency "/Users/florianezhang/RockVR/Video/2019-01-24-00-07-00-MCO2F.mp4"
+[ERROR]: [FFmpegLib]: Failed to close ffmpeg process
